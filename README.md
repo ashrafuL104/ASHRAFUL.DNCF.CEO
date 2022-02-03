@@ -778,6 +778,6 @@ def pilih_super():
 
 	menu()
 
-if __name__ == '__ASHRAFUL__':
+if __name__ == '__Main__':
 
 	login()
